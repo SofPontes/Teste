@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 8vw;
+    height: 12vh;
+   
+
+}
+.produtos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.produtos img{
+    width:10vw;
+    height: 20vh;
+    -webkit-box-shadow: 10px 6px 23px -13px rgba(0,0,0,1);
+-moz-box-shadow: 10px 6px 23px -13px rgba(0,0,0,1);
+box-shadow: 10px 6px 23px -13px rgba(0,0,0,1);
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 0px solid #000000;
+}
+
+
+    
